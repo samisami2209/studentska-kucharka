@@ -1,9 +1,4 @@
-<script setup>
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
-
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <h1>Domov</h1>
+  <p>Rýchle a lacné recepty do 15 minút pre študentov.</p>
 </template>
